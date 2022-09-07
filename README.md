@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
-Esse foi meu primeiro projeto de desenvolvimento web, então naturalmente, é sempre bom olhar pra onde tudo começou!
+Esse foi meu primeiro projeto de desenvolvimento web na Trybe em 25/11/2021, então naturalmente, é sempre bom olhar pra onde tudo começou!
 
 Atenção: Essa página foi desevolvida levando em consideração uma tela de 1024px.
 
